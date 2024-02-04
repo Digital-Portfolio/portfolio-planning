@@ -1,0 +1,7 @@
+site_name: Portfolio Planning
+
+theme:
+  name: dracula
+  nav_style: light
+  highlightjs: true
+
